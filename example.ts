@@ -1,4 +1,4 @@
-import { createSuite, throws } from './test-framework-4'
+import { createSuite, throws } from './index'
 
 const expect: (input: any) => any = () => {}
 const jest: any = {}

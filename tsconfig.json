@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "lib": ["es2019"],
+    "target": "es2019",
+    "moduleResolution": "node",
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "strictPropertyInitialization": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictNullChecks": true,
+    "strict": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "allowJs": true,
+    "baseUrl": ".",
+    "resolveJsonModule": true
+  },
+}
